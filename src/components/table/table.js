@@ -1,13 +1,15 @@
 function TableData(data) {
   data.map(() => {
-      <>
+    return(
+      <div>
         <td>{data.data}</td>
         <td>{data.demanda}</td>
         <td>{data.capacidade}</td>
         <td>{data.atendimentoPlanejado}</td>
         <td>{data.atendimentoRealizado}</td>
         <td>{data.desvio}</td>
-      </>
+      </div>
+    )
   })
 }
 
@@ -37,7 +39,22 @@ function Table(props) {
             </tr>
           </tfoot>
           <tbody>
-            {TableData(props.data)}
+            {/* {TableData(props.data)} */}
+            {props.data.map((data)=>{
+              return(
+              <>
+              <tr>
+                <td>{data.data}</td>
+                <td>{data.demanda}</td>
+                <td>{data.capacidade}</td>
+                <td>{data.atendimentoPlanejado}</td>
+                <td>{data.atendimentoRealizado}</td>
+                <td>{data.desvio}</td>
+              </tr>
+              </> 
+              )
+            }
+            )}
           </tbody>
         </table>
       </>
