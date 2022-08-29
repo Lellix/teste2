@@ -4,9 +4,11 @@ import Menu from "../src/components/menu/menu"
 import Table from "../src/components/table/table"
 import 'bulma/css/bulma.min.css';
 import './App.css'
+import data from "./assets/data.json";
 
 
 function App() {
+
   return (
     <>
       <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
@@ -14,8 +16,8 @@ function App() {
       <div className="mainContainer">
         <Menu/>
         <div className="content">
-          <Chart/>
-          <Table/>
+          <Chart data={data}/>
+          <Table data={data}/>
         </div>
       </div>
     </>

@@ -1,0 +1,138 @@
+[
+    {
+      "data": "03-03-2021",
+      "demanda": 2824.98,
+      "capacidade": 1373.74,
+      "atendimentoPlanejado": 1124.6,
+      "atendimentoRealizado": 3229.34,
+      "desvio": 3605.32
+    },
+    {
+      "data": "06-05-2022",
+      "demanda": 3423.28,
+      "capacidade": 3911.06,
+      "atendimentoPlanejado": 2779.98,
+      "atendimentoRealizado": 1815.29,
+      "desvio": 1105.34
+    },
+    {
+      "data": "13-09-2021",
+      "demanda": 3327.55,
+      "capacidade": 2690.03,
+      "atendimentoPlanejado": 2670.56,
+      "atendimentoRealizado": 3247.09,
+      "desvio": 3278.67
+    },
+    {
+      "data": "03-12-2021",
+      "demanda": 3088.76,
+      "capacidade": 2230.6,
+      "atendimentoPlanejado": 3909.89,
+      "atendimentoRealizado": 2239.7,
+      "desvio": 1720.05
+    },
+    {
+      "data": "19-05-2022",
+      "demanda": 1632.78,
+      "capacidade": 3845.41,
+      "atendimentoPlanejado": 2666.17,
+      "atendimentoRealizado": 1957.95,
+      "desvio": 3576.2
+    },
+    {
+      "data": "09-10-2021",
+      "demanda": 1336,
+      "capacidade": 1222.23,
+      "atendimentoPlanejado": 1688.34,
+      "atendimentoRealizado": 2522.29,
+      "desvio": 3146.52
+    },
+    {
+      "data": "24-11-2020",
+      "demanda": 1687.06,
+      "capacidade": 2257.67,
+      "atendimentoPlanejado": 3412.76,
+      "atendimentoRealizado": 1365,
+      "desvio": 3309.89
+    },
+    {
+      "data": "26-11-2021",
+      "demanda": 1405.78,
+      "capacidade": 1579.55,
+      "atendimentoPlanejado": 2710.25,
+      "atendimentoRealizado": 2197.94,
+      "desvio": 1860.96
+    },
+    {
+      "data": "25-02-2020",
+      "demanda": 2277.88,
+      "capacidade": 2622.56,
+      "atendimentoPlanejado": 3363.11,
+      "atendimentoRealizado": 3589.5,
+      "desvio": 1353.43
+    },
+    {
+      "data": "09-10-2021",
+      "demanda": 1865.46,
+      "capacidade": 1340.2,
+      "atendimentoPlanejado": 3104.65,
+      "atendimentoRealizado": 1614.86,
+      "desvio": 1185.56
+    },
+    {
+      "data": "18-09-2021",
+      "demanda": 2020.73,
+      "capacidade": 3352.55,
+      "atendimentoPlanejado": 2667.37,
+      "atendimentoRealizado": 2752.4,
+      "desvio": 1442.66
+    },
+    {
+      "data": "04-02-2021",
+      "demanda": 3834.06,
+      "capacidade": 3010.58,
+      "atendimentoPlanejado": 3974.86,
+      "atendimentoRealizado": 2521.46,
+      "desvio": 3992.55
+    },
+    {
+      "data": "06-12-2020",
+      "demanda": 1948.61,
+      "capacidade": 1284.92,
+      "atendimentoPlanejado": 3877.59,
+      "atendimentoRealizado": 1122.9,
+      "desvio": 3475.46
+    },
+    {
+      "data": "04-10-2021",
+      "demanda": 2703.59,
+      "capacidade": 3086.9,
+      "atendimentoPlanejado": 3785.44,
+      "atendimentoRealizado": 1110.86,
+      "desvio": 1341.02
+    },
+    {
+      "data": "05-05-2020",
+      "demanda": 3859.04,
+      "capacidade": 2644.29,
+      "atendimentoPlanejado": 3630.55,
+      "atendimentoRealizado": 2005.79,
+      "desvio": 3276.64
+    },
+    {
+      "data": "24-09-2020",
+      "demanda": 2001.38,
+      "capacidade": 1575.4,
+      "atendimentoPlanejado": 2544.57,
+      "atendimentoRealizado": 3595.7,
+      "desvio": 3696.07
+    },
+    {
+      "data": "21-08-2020",
+      "demanda": 1321.06,
+      "capacidade": 2069.55,
+      "atendimentoPlanejado": 1253.63,
+      "atendimentoRealizado": 1676.03,
+      "desvio": 3211.09
+    }
+  ]

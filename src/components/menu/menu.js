@@ -5,36 +5,19 @@ function Menu() {
       <>
         <aside className="menu sideMenu">
           <p className="menu-label">
-            General
+            Geral
           </p>
           <ul className="menu-list">
-            <li><a>Dashboard</a></li>
-            <li><a>Customers</a></li>
+            <li><a>Homepage</a></li>
+            <li><a>Dados</a></li>
           </ul>
           <p className="menu-label">
-            Administration
+            Administração
           </p>
           <ul className="menu-list">
-            <li><a>Team Settings</a></li>
-            <li>
-              <a className="is-active">Manage Your Team</a>
-              <ul>
-                <li><a>Members</a></li>
-                <li><a>Plugins</a></li>
-                <li><a>Add a member</a></li>
-              </ul>
-            </li>
-            <li><a>Invitations</a></li>
-            <li><a>Cloud Storage Environment Settings</a></li>
-            <li><a>Authentication</a></li>
-          </ul>
-          <p className="menu-label">
-            Transactions
-          </p>
-          <ul className="menu-list">
-            <li><a>Payments</a></li>
-            <li><a>Transfers</a></li>
-            <li><a>Balance</a></li>
+            <li><a>Demandas</a></li>
+            <li><a>Atendimentos Planejados</a></li>
+            <li><a>Atendimentos Realizados</a></li>
           </ul>
         </aside>
       </>
