@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import Chart from "../src/components/chart/chart"
+import Header from "../src/components/header/header"
+import Menu from "../src/components/menu/menu"
+import Table from "../src/components/table/table"
+import 'bulma/css/bulma.min.css';
+import './App.css'
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1"></meta>
+      <Header/>
+      <div className="mainContainer">
+        <Menu/>
+        <div className="content">
+          <Chart/>
+          <Table/>
+        </div>
+      </div>
+    </>
   );
 }
 
