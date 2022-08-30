@@ -17,6 +17,7 @@ export default class Example extends PureComponent {
   render() {
     return (
       <div className="chart">
+        <h2 className="title">Gráficos</h2>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
             data={this.props.data}

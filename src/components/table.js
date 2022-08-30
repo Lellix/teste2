@@ -2,6 +2,7 @@ function Table(props) {
 
     return (
       <div className="dataTable">
+        <h2 className="title">Tabela</h2>
         <table className="table is-scrollable">
           <thead>
             <tr>

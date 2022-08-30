@@ -15,7 +15,7 @@ function manipulateData(){
     element.data = new Date(+year, month-1, +day);
   });
 
-  data.sort(function(a, b){return ((a.data - b.data))})
+  data.sort(function(a, b){return ((a.data - b.data))});
 
   data.forEach(element =>{
     element.data = element.data.toDateString()
