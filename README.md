@@ -18,9 +18,11 @@
 
 <h2>Acesso ao Projeto</h2>
 <h3>Acesso pela Build</h3>
-<p>É possível executar o projeto diretamente pela build. Você pode acessa-la <a href="https://github.com/Lellix/teste2/tree/master/build">aqui</a></p>.
+<p>É possível executar o projeto diretamente pela build. Você pode acessa-lo <a href="https://github.com/Lellix/teste2/tree/master/build">aqui</a></p>.
 <h3>Acesso pelo terminal<h3>
 <p>Após abrir o projeto com seu editor de código de preferência, vá até o diretório a partir do seu terminal e digite o seguinte comando:</p>
-<ul>
-    <li>make all</li>
-</ul>
+<p>Linux:</p>
+<code>make all</code>
+<p>Windows:</p>
+<code>npm i</code>
+<code>npm start</code>
