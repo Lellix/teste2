@@ -20,7 +20,7 @@ export default class Example extends PureComponent {
         <h2 className="title">Gráficos</h2>
         <ResponsiveContainer width="100%" height="100%">
           <BarChart
-            data={this.props.data}
+            data={this.props.database}
           >
             <CartesianGrid strokeDasharray="3 3" />
             <XAxis dataKey="data" />
@@ -28,7 +28,7 @@ export default class Example extends PureComponent {
             <ReferenceLine y={0} stroke="#000"/>
             <Tooltip />
             <Legend/>
-            <Bar dataKey="deltaCapacidadeAtendimento" fill="#8884d8" name="Delta Capacidade e Atendimentos Realizados"/>
+            <Bar dataKey="deltaCapacidadeAtendimento" fill="#0C0F0A" name="Delta Capacidade e Atendimentos Realizados"/>
           </BarChart>
         </ResponsiveContainer>
       </div>

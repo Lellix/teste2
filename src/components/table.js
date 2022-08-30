@@ -15,7 +15,7 @@ function Table(props) {
             </tr>
           </thead>
           <tbody>
-            {props.data.map(dados=>{
+            {props.database.map(dados=>{
               return(
                 <>
                   <tr>
