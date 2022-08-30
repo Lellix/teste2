@@ -25,12 +25,12 @@
 <p>Linux:</p>
 
 ```
-$make all
+make all
 ```
 
 <p>Windows:</p>
 
 ```
-$npm install
-$npm start
+npm install
+npm start
 ```
