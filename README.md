@@ -31,6 +31,6 @@ $make all
 <p>Windows:</p>
 
 ```
-$npm i
+$npm install
 $npm start
 ```
