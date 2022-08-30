@@ -24,10 +24,10 @@
 <p>Após abrir o projeto com seu editor de código de preferência, vá até o diretório a partir do seu terminal e digite o seguinte comando:</p>
 <p>Linux:</p>
 ```
-make all
+$make all
 ```
 <p>Windows:</p>
 ```
-npm i
-npm start
+$npm i
+$npm start
 ```
