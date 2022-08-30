@@ -4,9 +4,9 @@
 </p>
 <h2>Tecnologias Utilizadas</h2>
     <ul>
-        <li>React JS</li>
-        <li>Bulma</li>
-        <li>Recharts</li>
+        <li>React JS: Biblioteca JavaScript utilizada para construir a interface gráfica.</li>
+        <li>Bulma CSS: Framework para facilitação do o uso de CSS.</li>
+        <li>Recharts: Plugin JS para criação de Gráficos.</li>
     </ul>
 
 <h2>Estrutura de Diretórios</h2>
