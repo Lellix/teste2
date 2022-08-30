@@ -23,7 +23,11 @@
 <h3>Acesso pelo terminal</h3>
 <p>Após abrir o projeto com seu editor de código de preferência, vá até o diretório a partir do seu terminal e digite o seguinte comando:</p>
 <p>Linux:</p>
+'''
 <code>make all</code>
+'''
 <p>Windows:</p>
+'''
 <code>npm i</code>
 <code>npm start</code>
+'''
